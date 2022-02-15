@@ -1,0 +1,29 @@
+#PrimerP{
+    color: white;
+    background-color: black;
+    padding:10px;
+    margin:5px ;
+    text-align: justify;
+}
+
+.cloud{
+    color: aqua;
+}
+.Completed{
+    color: white;
+    background-color: blueviolet;
+    padding:5px ;
+    margin: 5px;
+    height: 30px;
+    text-align:center;
+}
+
+.Contact{
+    background-color:cornflowerblue;
+    color:black;
+    padding:3px;
+    margin:5px;
+    height: 30px;
+    text-align:right;
+    text-decoration:underline;
+}
